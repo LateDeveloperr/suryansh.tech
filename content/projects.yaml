@@ -1,0 +1,10 @@
+- name: My Notes App
+  url: https://github.com/Dev-Suryansh/My-Notes-App.git
+  description: Notepad is an easy-to-use, intuitive, fast, elegant and secure notepad . You can use My Notes as a notepad, notebook, journal, agenda or diary.
+
+  status: live
+  tags:
+    - Java
+  icon: github
+
+
