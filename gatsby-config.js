@@ -9,7 +9,7 @@ module.exports = {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
         theme: {
-          'back': '#edf0f3',
+          'back': '#808080',
           'front': '#2b3137',
           'lead': '#2781ed',
           'lead-text': '#ffffff',
